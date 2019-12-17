@@ -4,12 +4,12 @@
   </a>
 </h1>
 
-### :page_facing_u: Sobre
+### :page_facing_up: Sobre
 Esse repositório é referência ao projeto criado no Medium
 
 ### :link: [Ir para o artigo](https://www.google.com)
 
-### :page_facing_u: Como instalar e iniciar com **Docker**
+### :page_facing_up: Como instalar e iniciar com **Docker**
 - `git clone https://github.com/jonabf1/artigo-docker-01`
 - **Vá para a pasta do repositório**
 - `docker-compose up` (instalar e iniciar todos os serviços)

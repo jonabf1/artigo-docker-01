@@ -14,5 +14,5 @@ COPY --chown=node:node . .
 
 EXPOSE 3333
 
-ENTRYPOINT [ "./docker-entrypoint.sh" ]
+ENTRYPOINT [ "./init.sh" ]
 

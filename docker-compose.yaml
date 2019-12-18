@@ -5,7 +5,6 @@ services:
   nodejs-artigo:
     container_name: nodejs-artigo
     build: '.'
-    command: yarn start
     volumes:
       - .:/home/node/api
       - /home/node/api/node_modules

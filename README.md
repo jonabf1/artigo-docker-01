@@ -7,7 +7,7 @@
 ### :page_facing_up: Sobre
 Esse repositório é referência ao projeto criado no Medium
 
-### :link: [Ir para o artigo](https://www.google.com)
+### :link: [Ir para o artigo](https://medium.com/@jonabf1/docker-e-docker-compose-com-node-js-mongodb-postgresql-e-nodemon-5752e42b022f)
 
 ### :page_facing_up: Como instalar e iniciar com **Docker**
 - `git clone https://github.com/jonabf1/artigo-docker-01`

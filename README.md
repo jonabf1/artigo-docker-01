@@ -16,7 +16,7 @@ Esse repositório é referência ao projeto criado no Medium
 
 ### :page_facing_up: Rotas
 
-- post('/signUp-user’) - Criar um usuário
+- post('/signUp-user’) - criar um usuário
 - get('/show-user’) - listar usuários
 
 ---

@@ -5,7 +5,7 @@
 </h1>
 
 ### :page_facing_up: Sobre
-Esse repositório é referência ao projeto criado no Medium
+Esse repositório é referência ao artigo criado no Medium
 
 ### :link: [Ir para o artigo](https://medium.com/@jonabf1/docker-e-docker-compose-com-node-js-mongodb-postgresql-e-nodemon-5752e42b022f)
 
